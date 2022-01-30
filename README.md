@@ -1,7 +1,7 @@
 # DS340W
 1st parent paper coding
 
-I redo the coding part for DS340W class for the 1st parent paper that is about a movie recommendation systems.
+I redo the coding part for DS340W class for the 1st parent paper that is about the movie recommendation systems.
 
 This code is made by 
 Ashrita Kashyap1,
